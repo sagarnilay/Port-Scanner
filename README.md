@@ -1,2 +1,3 @@
 # Port-Scanner
-Port Scanner in Python
+
+Python script to scan open ports on home router
